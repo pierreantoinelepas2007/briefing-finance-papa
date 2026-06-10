@@ -2,9 +2,9 @@
 import os
  
 CONFIG = {
-    "GROQ_API_KEY":        os.environ.get("GROQ_API_KEY", ""),
-    "SENDER_EMAIL":        os.environ.get("SENDER_EMAIL", ""),
-    "GMAIL_APP_PASSWORD":  os.environ.get("GMAIL_APP_PASSWORD", ""),
-    "RECIPIENT_EMAIL":     os.environ.get("RECIPIENT_EMAIL", ""),
+    "GROQ_API_KEY":       "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",
+    "SENDER_EMAIL":       "pierreantoinelepas@gmail.com",
+    "GMAIL_APP_PASSWORD": "uzrx istv viok ruby",
+    "RECIPIENT_EMAIL":    "lepaspierreantoine@gmail.com",
+    "FRED_API_KEY":       "",
 }
- 
